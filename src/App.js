@@ -1,6 +1,6 @@
 import './App.css';
 import ResponsiveDrawer from './Components/test'
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Expenses from './Components/Expenses'
 import Home from './Components/Home';
 import DemoApp from './Components/Agenda'
